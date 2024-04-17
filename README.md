@@ -7,8 +7,7 @@
 
 ## Analysis
 - Product Owner-
-- Project Manager
-- Bussiness Analyst
+- Project Manager- [**fitgym**](https://docs.google.com/document/d/19E6dFn_3lVkcZv55uUNjVGvtL6W4F8U3LvglYyLJDrI/edit?usp=sharing)
 - CTO-
 
 ## Design
