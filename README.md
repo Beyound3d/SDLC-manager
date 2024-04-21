@@ -27,6 +27,7 @@
 ## Deployment
 - Data Adminstrator
 - DevOps
+- server adminstrator
 
 ## Maintance
 * Users
