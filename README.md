@@ -24,6 +24,14 @@
    > |    app development                     | `brew install zoxide`                                                                                 |
    > |          Mern                          | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
    > |        full stack                      | `conda install -c conda-forge zoxide`                                                                 |
+
+  ## app
+   > | Repository                             | Instructions                                                                                          |
+   > | ------------------------               | ----------------------------------------------------------------------------------------------------- |
+   > |              android                   | `cargo install zoxide --locked`                                                                       |
+   > |    ios                                 | `brew install zoxide`                                                                                 |
+   > |          both                          | flutter react native                                                                                  |
+   > |        full stack                      | `conda install -c conda-forge zoxide`                                                                 |
    
 ## Testing
 * Soluctions Architect
