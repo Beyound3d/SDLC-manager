@@ -18,6 +18,13 @@
 - Frontend
 - Backend
 
+   > | Repository                             | Instructions                                                                                          |
+   > | ------------------------               | ----------------------------------------------------------------------------------------------------- |
+   > |   web developnment                     | `cargo install zoxide --locked`                                                                       |
+   > |    app development                     | `brew install zoxide`                                                                                 |
+   > |          Mern                          | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
+   > |        full stack                      | `conda install -c conda-forge zoxide`                                                                 |
+   
 ## Testing
 * Soluctions Architect
 * Tester
