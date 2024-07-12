@@ -100,3 +100,6 @@
 - Technical Support Specialist: Provides support to users, troubleshoots issues, and resolves problems related to software applications.
 - Release Manager: Manages the release process, ensuring that new versions of software are tested, packaged, and deployed without issues.
 - Database Administrator (DBA): Maintains and optimizes database systems, ensuring data integrity, security, and availability.
+
+# AI
+Jobs: AI officer, Ai generalist, AI researchers
